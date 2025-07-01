@@ -38,6 +38,9 @@ $ npm install
 # init prisma
 $ npx prisma init
 
+# create schemas from models
+$ npm run build:schema
+
 # generate prisma client
 $ npx prisma generate
 
